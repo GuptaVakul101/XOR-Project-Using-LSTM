@@ -1,1 +1,1 @@
-# XOR_Project_Using_LSTM
+# XOR-Problem-Using-LSTM
